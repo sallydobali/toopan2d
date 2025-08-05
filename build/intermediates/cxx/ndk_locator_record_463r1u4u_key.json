@@ -1,0 +1,5 @@
+{
+  "ndkDirProperty": "/usr/lib/android-sdk/ndk",
+  "sdkFolder": "/usr/lib/android-sdk",
+  "sideBySideNdkFolderNames": []
+}
