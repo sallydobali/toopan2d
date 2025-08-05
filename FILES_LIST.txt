@@ -1,0 +1,20 @@
+# Toopan2D Project Files 
+ 
+## Main Files: 
+✅ build.gradle 
+✅ build_simple.gradle 
+✅ CMakeLists.txt 
+✅ gradlew.bat 
+ 
+## Source Code: 
+✅ Java source files 
+✅ C source files 
+✅ Android resources 
+ 
+## Build System: 
+✅ Gradle wrapper 
+✅ GitHub Actions 
+ 
+## Documentation: 
+✅ README.md 
+✅ GITHUB_GUIDE.md 
